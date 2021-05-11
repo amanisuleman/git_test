@@ -1,0 +1,1 @@
+This is Amani's first git project!
